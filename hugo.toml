@@ -1,7 +1,6 @@
 
 
 
-
 baseURL = "https://jimmy-sheng.github.io/"
 languageCode = "en-gb"
 title = "Jimmy Sheng"
@@ -52,5 +51,4 @@ defaultContentLanguageInSubdir = true
     weight = 2
 
 
-[taxonomies]
 
