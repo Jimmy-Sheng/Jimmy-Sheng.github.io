@@ -23,17 +23,17 @@ defaultContentLanguageInSubdir = true
 
     [[languages.en.menu.main]]
       name = "About Me"
-      url = "/about/"
+      url = "about/"
       weight = 2
 
     [[languages.en.menu.main]]
       name = "Experience"
-      url = "/experience/"
+      url = "experience/"
       weight = 3
 
     [[languages.en.menu.main]]
       name = "Projects"
-      url = "/projects/"
+      url = "projects/"
       weight = 4
 
   [languages.zh]
@@ -47,7 +47,7 @@ defaultContentLanguageInSubdir = true
 
     [[languages.zh.menu.main]]
       name = "關於我"
-      url = "/about/"
+      url = "about/"
       weight = 2
 
 
