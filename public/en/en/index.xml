@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Home on Jimmy Sheng</title>
+    <link>http://localhost:1313/en/en/</link>
+    <description>Recent content in Home on Jimmy Sheng</description>
+    <generator>Hugo -- 0.155.2</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/en/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/en/en/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/en/about/</guid>
+      <description>&lt;p&gt;I am a Financial Technology student at The Chinese University of Hong
+Kong,
+with practical experience across traditional banking institutions
+and large-scale fintech platforms.&lt;/p&gt;
+&lt;p&gt;My academic background combines finance, economics, programming,
+and optimization, while my professional experience spans
+Hang Seng Bank, Bank of East Asia, and Ant Group.&lt;/p&gt;
+&lt;p&gt;I am particularly interested in Open Banking,
+data visualization, and AI-driven financial advisory systems.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Experience</title>
+      <link>http://localhost:1313/en/en/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/en/experience/</guid>
+      <description>&lt;h2 id=&#34;hang-seng-bank-hong-kong&#34;&gt;Hang Seng Bank, Hong Kong&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Assistant Finance Manager&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;Aug 2025 – Dec 2025&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Conducted proof-of-concept research on Web3 fintech applications.&lt;/li&gt;
+&lt;li&gt;Produced MI reports on Hong Kong financial policy and market trends.&lt;/li&gt;
+&lt;li&gt;Participated in green finance product origination and regulatory
+reporting.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;ant-group&#34;&gt;Ant Group&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Junior Business Development Specialist&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;Jun 2024 – Aug 2024&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Conducted data-driven research on global e-wallet ecosystems.&lt;/li&gt;
+&lt;li&gt;Led field research on inbound tourist payment needs.&lt;/li&gt;
+&lt;li&gt;Designed marketing strategies and iterated product features.&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/en/en/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/en/projects/</guid>
+      <description>&lt;h2 id=&#34;data-visualization--ai-advisory-through-open-banking-apis&#34;&gt;Data Visualization &amp;amp; AI Advisory through Open Banking APIs&lt;/h2&gt;
+&lt;p&gt;A fintech application prototype integrating Open Banking APIs,
+data visualization, and AI advisory to improve personal financial
+decision-making.&lt;/p&gt;
+&lt;h3 id=&#34;role&#34;&gt;Role&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Product research and concept design&lt;/li&gt;
+&lt;li&gt;Data visualization logic&lt;/li&gt;
+&lt;li&gt;AI advisory workflow design&lt;/li&gt;
+&lt;li&gt;UI/UX prototyping (Figma)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;tools&#34;&gt;Tools&lt;/h3&gt;
+&lt;p&gt;Python · Open Banking API · Figma · GPT-based AI architecture&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

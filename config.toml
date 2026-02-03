@@ -1,0 +1,19 @@
+baseURL = "https://Jimmy-Sheng.github.io/"
+title = "Jimmy Sheng"
+theme = "PaperMod"
+
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true
+
+[languages]
+
+  [languages.en]
+    languageName = "EN"
+    weight = 1
+
+  [languages.zh]
+    languageName = "繁中"
+    weight = 2
+
+xxx
+

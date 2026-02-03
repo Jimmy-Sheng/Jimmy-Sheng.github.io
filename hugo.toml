@@ -1,0 +1,49 @@
+
+
+
+
+baseURL = "http://localhost:1313/"
+title = "Jimmy Sheng"
+theme = "PaperMod"
+
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true
+
+[languages.en.menu]
+
+  [[languages.en.menu.main]]
+    name = "Home"
+    url = "/en/"
+    weight = 1
+
+  [[languages.en.menu.main]]
+    name = "About Me"
+    url = "/en/about/"
+    weight = 2
+
+  [[languages.en.menu.main]]
+    name = "Experience"
+    url = "/en/experience/"
+    weight = 3
+
+  [[languages.en.menu.main]]
+    name = "Projects"
+    url = "/en/projects/"
+    weight = 4
+
+
+[languages.zh.menu]
+
+  [[languages.zh.menu.main]]
+    name = "首頁"
+    url = "/zh/"
+    weight = 1
+
+  [[languages.zh.menu.main]]
+    name = "關於我"
+    url = "/zh/about/"
+    weight = 2
+
+
+[taxonomies]
+
